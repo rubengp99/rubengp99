@@ -6,6 +6,7 @@
 - Automation & Resiliency first thinking, the less human input, the better.
 
 ### Technology Stacks
+- Clouds: AWS
 - Language: Golang, React.js, Vue.js, Typescript, Node.js
 - Messaging: Kinesis, SQS, RabbitMQ
 - DBMS: MySQL, PostgreSQL, MongoDB, DynamoDB
