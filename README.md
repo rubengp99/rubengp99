@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ruben D. Garcia
 
 **Senior Software Engineer**  
-💻 Building scalable distributed systems using **Go**, **AWS**, and modern cloud-native architectures.
+💻 Building scalable distributed systems using **Go**, **AWS**, **React** / **Vue**, and modern cloud-native architectures.
 
 ---
 
