@@ -53,5 +53,5 @@
 
 ### 🧠 Fun Fact
 
-> I believe good software is not just about writing code, but about **designing systems that scale, recover, and evolve**.
+> I believe that you have to vibe with your code if you want it to **scale, recover, and evolve**.
 
